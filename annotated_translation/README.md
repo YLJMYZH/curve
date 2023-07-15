@@ -2,4 +2,4 @@
 appid = 'appid'
 secretKey = 'key'
 
-待翻译文件需要是以UTF-8为编码方式
+待翻译文件需为 UTF-8 编码
